@@ -2,7 +2,7 @@
 
 A comprehensive, web-based practice interface designed to help candidates prepare for the **NVIDIA Certified Associate - Generative AI LLM** exam. This application consolidates multiple practice question batches into a single, responsive, and interactive React application.
 
-![App Screenshot Placeholder](https://via.placeholder.com/800x400?text=Application+Screenshot)
+
 
 ## 🚀 Features
 
