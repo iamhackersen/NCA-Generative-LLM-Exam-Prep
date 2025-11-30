@@ -1,0 +1,5 @@
+{
+  "name": "NVIDIA Certified Associate Generative LLM | Exam Prep",
+  "description": "A comprehensive practice interface for the NVIDIA Certified Associate - Generative AI exam, consolidating multiple question batches into a single, responsive React application.",
+  "requestFramePermissions": []
+}
