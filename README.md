@@ -3,14 +3,10 @@
 A comprehensive, web-based practice interface designed to help candidates prepare for the **NVIDIA Certified Associate - Generative AI LLM** exam. This application consolidates multiple practice question batches into a single, responsive, and interactive React application.
 
 test-page https://nca-generative-llm-exam-prep.vercel.app/
-<img width="648" height="396" alt="main layout" src="https://github.com/user-attachments/assets/f8037f00-7c23-4f17-996b-4ef0c45508ff" />
+<img width="1184" height="777" alt="main layout" src="https://github.com/user-attachments/assets/a2f8ff16-1831-42e7-ac1c-36e2f71eb61a" />
 <img width="1150" height="830" alt="selection" src="https://github.com/user-attachments/assets/c67f77c1-9bd1-420d-94b1-f09fc2e6fe47" />
 <img width="1113" height="888" alt="check answer" src="https://github.com/user-attachments/assets/39441347-fb9c-4db7-8caa-ff75e0519142" />
 <img width="1162" height="896" alt="incorrect answer" src="https://github.com/user-attachments/assets/86ad56e5-4ea6-4230-ac67-2b3036962e15" />
-
-
-
-
 
 ## 🚀 Features
 
