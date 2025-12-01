@@ -29,6 +29,39 @@ test-page https://nca-generative-llm-exam-prep.vercel.app/
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Build Tool**: Vite (Recommended for local development)
 
+## Prompt Engineering
+#Content
+Create sample questions mimic the real exam questions for Nvidia Certified Associate Generative LLM
+Core Machine Learning and AI Knowledge 6 questions, Software Development 5 questions Experimentation 4 questions, Data
+Analysis and Visualization 3 questions and Trustworthy AI 2 questions
+Label the questions with topic likes Core Machine Learning and AI Knowledge , Software Development, Experimentation, Data
+Analysis and Visualization and Trustworthy AI
+Contain 2 type of question, one with single answer, another with multiple choices
+Questions shall not be repetitive
+Selection of answers limit to 4, for multiple choice select any 2 questions
+Randomly assigned the answers, i.e. shall not be always B or As or A and C
+Create first 20 questions 15 for single answer, 5 for multiple choices for preview
+Provide 50 words of answer explanation
+
+#Interface and UI design
+Create a html format
+Minimalist / compact design fit onto one page without need to scroll up or down
+Use color green and dark mode
+One page one question with 4 answer selection
+Include Previous / Next question button
+Selection of answer shall have blue frame on the edge box, same for multiple choice.
+Can reselect the answer by clicking on new selection.
+Create the answer button at the button of every question, do not reveal the answer automatically
+If the answer is incorrect, do not reveal the answer, but allow user to reselect the answer, once user click on check answer button, ser
+can not reselect the answer, same to the score. once the check answer is clicked, the score must be calculated.
+previous button on left center, check answer on center, next button on center right
+Include enough space to show the 50words explanation
+Include completion status bar
+Create a html format
+Add total score onto the final question. I.e. xx/20 xx below 15 (Study harder!) 15/20 (Keep trying!) 18/20 (Very Good!) or 20/20
+(Outstanding!)
+
+
 ## 📂 Project Structure
 
 ```
